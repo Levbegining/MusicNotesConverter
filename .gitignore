@@ -1,5 +1,5 @@
 .vs
 **/bin/
 **/obj/
-**/.venv/
+**/Library/PythonVenv/.venv/
 **/.DSStore/
